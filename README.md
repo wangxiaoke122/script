@@ -1,3 +1,5 @@
+wget git.io/superupdate.sh
+
 # Some Linux scripts
 ## Superspeed.sh
 - Description: Test your server's network with Speedtest to China
